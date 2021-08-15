@@ -12,4 +12,6 @@ int three_sum(int x,inty,int z){
 int mul(int x, int y){
 	return x * y;
 }
+int mul(int x, int y){
+	return x / y;
 }
